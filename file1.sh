@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 echo "Allops Academy"
 a=2
